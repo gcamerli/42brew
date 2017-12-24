@@ -32,6 +32,8 @@ A personal selection of useful **brew** packages:
 + valgrind
 + gdb
 
+and [homebrew cask](https://github.com/caskroom/homebrew-cask) to easily install each packages listed in **Managed Software Center** from your shell.
+
 ### **Note**
 
 Homebrew data (`Temp` and `Cache`) are moved to `/tmp`, leaving your `$HOME` cleaner.
