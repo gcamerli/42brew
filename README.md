@@ -22,6 +22,16 @@ curl -fsSL https://rawgit.com/gcamerli/42brew/master/set.sh | zsh
 curl -fsSL https://rawgit.com/gcamerli/42brew/master/unset.sh | zsh
 ```
 
+### **Packages**
+
+A personal selection of useful **brew** packages:
+
++ tig
++ figlet
++ ttygif
++ valgrind
++ gdb
+
 ### **Note**
 
 Homebrew data (`Temp` and `Cache`) are moved to `/tmp`, leaving your `$HOME` cleaner.
