@@ -31,6 +31,7 @@ A personal selection of useful **brew** packages:
 + ttygif
 + valgrind
 + gdb
++ asciinema
 
 and [homebrew cask](https://github.com/caskroom/homebrew-cask) to easily install each packages listed in **Managed Software Center** from your shell.
 
